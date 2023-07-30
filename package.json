@@ -1,0 +1,23 @@
+{
+  "name": "@rdot117/hello-npm",
+  "version": "1.0.0",
+  "description": "Test package to the npm registry",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdot117/Hello-Npm.git"
+  },
+  "keywords": [
+    "Roblox",
+    "Lua"
+  ],
+  "author": "rdot117",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdot117/Hello-Npm/issues"
+  },
+  "homepage": "https://github.com/rdot117/Hello-Npm#readme"
+}

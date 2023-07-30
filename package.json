@@ -1,7 +1,7 @@
 {
-  "name": "@rdot117/hello-npm",
-  "version": "1.0.0",
-  "description": "Test package to the npm registry",
+  "name": "@r_dot117/hello-npm",
+  "version": "1.0.1",
+  "description": "Test package to public npm registry",
   "main": "src",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,10 +14,13 @@
     "Roblox",
     "Lua"
   ],
-  "author": "rdot117",
+  "author": "r_dot117",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rdot117/Hello-Npm/issues"
   },
-  "homepage": "https://github.com/rdot117/Hello-Npm#readme"
+  "homepage": "https://github.com/rdot117/Hello-Npm#readme",
+  "dependencies": {
+    "@quenty/rx": "^7.14.0"
+  }
 }
